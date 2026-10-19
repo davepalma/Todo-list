@@ -56,7 +56,8 @@ input{
 button{
     border:none;
     outline:none;
-    padding:16px 50px;
+    margin:5px;
+    padding:10px;
     background:orangered;
     cursor:pointer;
     border-radius:40px;
